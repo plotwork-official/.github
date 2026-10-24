@@ -1,0 +1,22 @@
+flow "How Plotwork works" desc="An AI agent, a CI pipeline or an import of source files sends Plotwork text to the engine, which checks it, lays it out and draws it; the picture goes to the README, Confluence and the team library." direction=right legend=off
+
+group write "Write" type=none {
+  node agent  agent  "AI agent"      sub="Claude, Copilot, Cursor"
+  node ci     step   "CI pipeline"   sub="GitHub, GitLab, Azure" icon=lucide:workflow
+  node source step   "Source files"  sub="Terraform, SQL, OpenAPI" icon=lucide:file-code
+}
+
+node engine service "Plotwork engine" sub="Checks, lays out, draws" icon=lucide:sparkles
+
+group read "Read" type=none {
+  node repo  client  "README and docs" sub="SVG beside the code" icon=lucide:book-open
+  node wiki  client  "Confluence"      sub="Only for its readers" icon=simple:confluence
+  node lib   storage "Team library"    sub="Versioned, on brand"
+}
+
+agent  -> engine : "MCP"
+ci     -> engine : "Action, CLI"
+source -> engine : "import"
+engine -> repo
+engine -> wiki
+engine -> lib
