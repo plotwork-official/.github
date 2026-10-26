@@ -27,6 +27,7 @@
   <a href="https://x.com/plotwork_"><img alt="X" src="https://img.shields.io/badge/X-@plotwork__-171717?style=flat-square&logo=x&logoColor=white"></a>
   <a href="https://bsky.app/profile/plotwork.bsky.social"><img alt="Bluesky" src="https://img.shields.io/badge/Bluesky-@plotwork.bsky.social-171717?style=flat-square&logo=bluesky&logoColor=white"></a>
   <a rel="me" href="https://mastodon.social/@plotwork"><img alt="Mastodon" src="https://img.shields.io/badge/Mastodon-@plotwork@mastodon.social-171717?style=flat-square&logo=mastodon&logoColor=white"></a>
+  <a href="https://www.instagram.com/plotwork.official"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-@plotwork.official-171717?style=flat-square&logo=instagram&logoColor=white"></a>
   <a href="https://www.youtube.com/@plotwork-official"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-@plotwork--official-171717?style=flat-square&logo=youtube&logoColor=white"></a>
   <a href="https://www.facebook.com/people/Plotwork/61595833503686"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-Plotwork-171717?style=flat-square&logo=facebook&logoColor=white"></a>
   <a href="https://discord.gg/gcAz5RJyu"><img alt="Discord" src="https://img.shields.io/badge/Discord-Join%20the%20community-171717?style=flat-square&logo=discord&logoColor=white"></a>
