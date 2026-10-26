@@ -22,6 +22,25 @@
   <a href="https://plotwork.dev/enterprise"><b>Enterprise</b></a>
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/company/plotwork-dev"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-plotwork.dev-171717?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0NDggNTEyIj48cGF0aCBmaWxsPSIjZmZmIiBkPSJNNDE2IDMySDMxLjlDMTQuMyAzMiAwIDQ2LjUgMCA2NC4zdjM4My40QzAgNDY1LjUgMTQuMyA0ODAgMzEuOSA0ODBINDE2YzE3LjYgMCAzMi0xNC41IDMyLTMyLjNWNjQuM2MwLTE3LjgtMTQuNC0zMi4zLTMyLTMyLjN6TTEzNS40IDQxNkg2OVYyMDIuMmg2Ni41VjQxNnptLTMzLjItMjQzYy0yMS4zIDAtMzguNS0xNy4zLTM4LjUtMzguNVM4MC45IDk2IDEwMi4yIDk2YzIxLjIgMCAzOC41IDE3LjMgMzguNSAzOC41IDAgMjEuMy0xNy4yIDM4LjUtMzguNSAzOC41em0yODIuMSAyNDNoLTY2LjRWMzEyYzAtMjQuOC0uNS01Ni43LTM0LjUtNTYuNy0zNC42IDAtMzkuOSAyNy0zOS45IDU0LjlWNDE2aC02Ni40VjIwMi4yaDYzLjd2MjkuMmguOWM4LjktMTYuOCAzMC42LTM0LjUgNjIuOS0zNC41IDY3LjIgMCA3OS43IDQ0LjMgNzkuNyAxMDEuOVY0MTZ6Ii8+PC9zdmc+"></a>
+  <a href="https://x.com/plotwork_"><img alt="X" src="https://img.shields.io/badge/X-@plotwork__-171717?style=flat-square&logo=x&logoColor=white"></a>
+  <a href="https://www.youtube.com/@plotwork-official"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-@plotwork--official-171717?style=flat-square&logo=youtube&logoColor=white"></a>
+  <a href="https://www.facebook.com/people/Plotwork/61595833503686"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-Plotwork-171717?style=flat-square&logo=facebook&logoColor=white"></a>
+  <a href="https://discord.gg/gcAz5RJyu"><img alt="Discord" src="https://img.shields.io/badge/Discord-Join%20the%20community-171717?style=flat-square&logo=discord&logoColor=white"></a>
+</p>
+
+<p align="center">
+  <a href="https://assets.plotwork.dev/media/films/hero/landscape-dark.mp4">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://assets.plotwork.dev/media/films/hero/readme-dark.webp">
+      <img src="https://assets.plotwork.dev/media/films/hero/readme-light.webp" alt="An AI agent writes a few lines of Plotwork text, and Plotwork draws an AWS checkout architecture from them, then the same diagram in other kinds and themes." width="860">
+    </picture>
+  </a>
+</p>
+
+<p align="center"><sub>Select the film to watch it in full quality.</sub></p>
+
 <br>
 
 ## Contents
@@ -62,6 +81,16 @@ A small text language that agents write well, and an engine that draws it the sa
 | **Kept in sync** | CI redraws every diagram on change and fails the build when one is stale. |
 
 ## Start in a minute
+
+<p>
+  <a href="https://www.npmjs.com/package/@buun_group/plotwork-mcp"><img alt="MCP server on npm" src="https://img.shields.io/npm/v/@buun_group/plotwork-mcp?style=flat-square&logo=npm&label=MCP%20server&color=0f766e"></a>
+  <a href="https://www.npmjs.com/package/@buun_group/plotwork"><img alt="Command line on npm" src="https://img.shields.io/npm/v/@buun_group/plotwork?style=flat-square&logo=npm&label=CLI&color=0f766e"></a>
+  <a href="https://github.com/plotwork-official/plotwork-action"><img alt="GitHub Action" src="https://img.shields.io/github/v/release/plotwork-official/plotwork-action?style=flat-square&logo=githubactions&logoColor=white&label=GitHub%20Action&color=0f766e"></a>
+  <a href="https://gitlab.com/explore/catalog/plotwork/plotwork-component"><img alt="GitLab CI/CD catalog" src="https://img.shields.io/badge/GitLab-CI%2FCD%20catalog-0f766e?style=flat-square&logo=gitlab&logoColor=white"></a>
+  <a href="https://marketplace.visualstudio.com/items?itemName=plotwork.plotwork-diagrams"><img alt="Azure DevOps extension" src="https://img.shields.io/badge/Azure%20DevOps-Marketplace-0f766e?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0iI2ZmZiI+PHBhdGggZD0iTTE1IDMuNjIxNzJWMTIuMTMzNkwxMS41IDE1TDYuMDc1IDEzLjAyNVYxNC45ODI1TDMuMDAzNzUgMTAuOTcxM0wxMS45NTUgMTEuNjcwNFY0LjAwNjI0TDE1IDMuNjIxNzJaTTEyLjAxNjMgNC4wNDk5NEw2Ljk5Mzc1IDFWMy4wMDEyNUwyLjM4MjUgNC4zNTU4MUwxIDYuMTI5ODRWMTAuMTU4NkwyLjk3NzUgMTEuMDMyNVY1Ljg2NzY3TDEyLjAxNjMgNC4wNDk5NFoiLz48L3N2Zz4="></a>
+  <a href="https://registry.terraform.io/providers/plotwork-official/plotwork/latest"><img alt="Terraform Registry" src="https://img.shields.io/badge/Terraform-Registry-0f766e?style=flat-square&logo=terraform&logoColor=white"></a>
+  <a href="https://hub.docker.com/r/plotwork/selfhost"><img alt="Self-hosted engine on Docker Hub" src="https://img.shields.io/docker/v/plotwork/selfhost?sort=semver&style=flat-square&logo=docker&logoColor=white&label=Docker&color=0f766e"></a>
+</p>
 
 **With an AI agent** (Claude Code shown; Cursor, VS Code and Claude Desktop work too):
 
